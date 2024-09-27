@@ -1,0 +1,30 @@
+.row{
+    width: 800px;
+    height: 150px;
+    margin: 30px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+#aquamarine{
+    background-color: aquamarine;
+}
+
+#Yellow{
+    background-color: yellow;
+}
+
+#aqua{
+    background-color: aqua;
+}
+.container{
+text-align: center;
+background-color: azure;
+justify-content: center;
+}
+img{
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+}
